@@ -1,4 +1,4 @@
-# CMPT-1105 | Loop or Iteration
+# CMPT 1105 | Loop or Iteration
 
 Loop or iteration is way to iterate or go through each item in the array, collection or dictionary.
 
